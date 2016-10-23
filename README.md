@@ -1,3 +1,3 @@
 # hello-world
 This is first project.
-Eit #2
+Edit #2
