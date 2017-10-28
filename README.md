@@ -1,6 +1,4 @@
 # hello-world
 This is first project.
-Edit #2
-Edit #3
-Edit #4
-Edit #1
+2017 1
+2017 2
